@@ -1,2 +1,2 @@
 # test
-Hello it's Thaanis
+Hello, It's Thaanis
